@@ -1,0 +1,6 @@
+@AirLineBookingSystem.Bookings.Api_HostAddress = http://localhost:5028
+
+GET {{AirLineBookingSystem.Bookings.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
